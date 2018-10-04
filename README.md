@@ -62,11 +62,12 @@ chr22 1000 5000 cloneA 960 + 1000 5000 0 2 567,488, 0,3512
 chr22 2000 6000 cloneB 900 - 2000 6000 0 2 433,399, 0,3601
 ```
 
-track name=pairedReads description="Clone Paired Reads" useScore=1
-|**chrom** | **chromStart** | **chromEnd**  | **name**  | **score** | **strand** | **thickStart**  | **thickEnd** | **itemRgb**  |  **blockCount**  | **blockSizes** |  **blockStarts**|
-|---|---|---|---|---|---|---|---|---|--- |---|---|
-|chr22 | 1000 | 5000 |cloneA |960 |+ |1000 |5000| 0 |2 |567,488,| 0,3512|
-|chr22 |2000  |6000| cloneB |900| - |2000| 6000| 0| 2 |433,399,| 0,3601|
+track name=pairedReads description="Clone Paired Reads" useScore=1  
+
+| **chrom** | **chromStart** | **chromEnd**  | **name**  | **score** | **strand** | **thickStart**  | **thickEnd** | **itemRgb**  |  **blockCount**  | **blockSizes** |  **blockStarts** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| chr22 | 1000 | 5000 | cloneA | 960 | + | 1000 | 5000 | 0 |2 | 567,488, | 0,3512 |
+| chr22 | 2000  | 6000 | cloneB | 900| - | 2000 | 6000 | 0 | 2 | 433,399, | 0,3601 |
 
 ---
 

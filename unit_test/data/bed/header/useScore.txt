@@ -1,0 +1,1 @@
+track name=pairedReads description="Clone Paired Reads" useScore=1

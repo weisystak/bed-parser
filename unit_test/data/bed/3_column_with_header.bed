@@ -1,0 +1,4 @@
+track name="ItemRGBDemo" description="Item RGB demonstration" visibility=2 itemRgb="On"
+chr1	85000835	85003645
+chr1	85100217	85106585
+chr1	85153339	85154239
